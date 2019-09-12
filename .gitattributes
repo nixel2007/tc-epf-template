@@ -1,0 +1,4 @@
+*.xml eol=lf
+*.bsl eol=lf
+*.feature eol=lf
+*.md eol=lf
